@@ -1,3 +1,3 @@
 # csce-548-project
-![alt text](filename.png)
+![alt text](/filename.png)
 
